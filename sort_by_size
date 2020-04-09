@@ -1,0 +1,12 @@
+sudo du -hsx * | sort -rh | head -10
+
+22G	alldesktopjan29
+115M	Daily_Checks
+15M	cygi.csv
+9.7M	In His Presence
+9.2M	Chrome_Password_Export
+8.1M	march_conv_errors_full.csv
+1.7M	2020_Resume
+648K	toprint
+64K	img-20180804-wa0007-2.jpg
+8.0K	ToDo_From_Xiaonuo
